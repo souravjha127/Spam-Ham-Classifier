@@ -29,11 +29,11 @@ Helps individuals and organizations filter unwanted content.
 Demonstrates the application of NLP and ML in real-world use cases.
 
 ## Walkthrough of Key Components
-Text Input Box – Users can type or paste a message for classification.
-Prediction Output Panel – Displays classification result (“Spam” or “Ham”) instantly.
-Model Confidence Score – Shows prediction probability.
-Data Preprocessing Pipeline – Automatic cleaning, tokenizing, stopword removal, and stemming before classification.
-Interactive Streamlit Interface – No coding required for the user; everything runs in-browser.
+- Text Input Box – Users can type or paste a message for classification.
+- Prediction Output Panel – Displays classification result (“Spam” or “Ham”) instantly.
+- Model Confidence Score – Shows prediction probability.
+- Data Preprocessing Pipeline – Automatic cleaning, tokenizing, stopword removal, and stemming before classification.
+- Interactive Streamlit Interface – No coding required for the user; everything runs in-browser.
 
 ## Business Impact & Insights
 Email & SMS Filtering – Can be adapted for large-scale spam filtering systems.
