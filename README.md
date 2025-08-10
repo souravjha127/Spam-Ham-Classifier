@@ -3,13 +3,13 @@ An interactive Streamlit-based web application that classifies text messages as 
 
 ## Tech Stack
 The project was built using the following tools and technologies:
-• 🐍 Python – Programming language used for model building and app logic.
-• 📊 Scikit-learn – ML library used for model training and evaluation.
-• 📝 Pandas & NumPy – Data cleaning, preprocessing, and manipulation.
-• 🔤 NLTK (Natural Language Toolkit) – Text preprocessing (tokenization, stopwords removal, stemming).
-• 📂 Google Colab – Development and training environment.
-• 🌐 Streamlit – Web framework for building the interactive UI.
-• 📁 Source Control – Dataset and code sourced from GitHub.
+- 🐍 Python – Programming language used for model building and app logic.
+- 📊 Scikit-learn – ML library used for model training and evaluation.
+- 📝 Pandas & NumPy – Data cleaning, preprocessing, and manipulation.
+- 🔤 NLTK (Natural Language Toolkit) – Text preprocessing (tokenization, stopwords removal, stemming).
+- 📂 Google Colab – Development and training environment.
+- 🌐 Streamlit – Web framework for building the interactive UI.
+- 📁 Source Control – Dataset and code sourced from GitHub.
 
 ## Data Source
 Source: Public dataset from GitHub containing labeled SMS messages (Spam or Ham).
